@@ -1,0 +1,274 @@
+{
+    "1181403722866229318": [
+        {
+            "nome": "Gabriel Souza Andrade",
+            "idade": 20,
+            "ocupacao": "Policial Civil",
+            "id": "2",
+            "dinheiro": 999999999999999999999999999999999999999999999999999999999
+        }
+    ],
+    "703575693321175071": [
+        {
+            "nome": "Jo\u00e3o Vitor Andrade",
+            "idade": 19,
+            "ocupacao": "Policial Civil",
+            "id": "1",
+            "dinheiro": 1e+57
+        },
+        {
+            "nome": "Pamela Mily Andrade",
+            "idade": 20,
+            "ocupacao": "Cidad\u00e3o",
+            "id": "559093",
+            "dinheiro": 1320
+        }
+    ],
+    "703958429315629076": [
+        {
+            "nome": "Diclei",
+            "idade": 50,
+            "ocupacao": "Cidad\u00e3o",
+            "id": "989997",
+            "dinheiro": 2640
+        },
+        {
+            "nome": "ADAIR",
+            "idade": 31,
+            "ocupacao": "Cidad\u00e3o",
+            "id": "204364",
+            "dinheiro": 1320
+        }
+    ],
+    "743597313779302420": [
+        {
+            "nome": "T\u00e9o Ferreira",
+            "idade": 21,
+            "ocupacao": "Policial Civil",
+            "id": "752661",
+            "dinheiro": 3320
+        },
+        {
+            "nome": "Vit\u00f3ria Ferreira",
+            "idade": 19,
+            "ocupacao": "Cidad\u00e3o",
+            "id": "727547",
+            "dinheiro": 1320
+        },
+        {
+            "nome": "Jobesvaldo Fogante",
+            "idade": 89,
+            "ocupacao": "Cidad\u00e3o",
+            "id": "209502",
+            "dinheiro": 1320
+        }
+    ],
+    "1191559869694750773": [
+        {
+            "nome": "Daniel Castro",
+            "idade": 25,
+            "ocupacao": "Policial Civil",
+            "id": "218374",
+            "dinheiro": 31320
+        },
+        {
+            "nome": "Jobesvaldo Criado",
+            "idade": 50,
+            "ocupacao": "Cidad\u00e3o",
+            "id": "288067",
+            "dinheiro": 1320
+        },
+        {
+            "nome": "Pedro Santana",
+            "idade": 20,
+            "ocupacao": "Cidad\u00e3o",
+            "id": "215375",
+            "dinheiro": 1320
+        }
+    ],
+    "395313502790615041": [
+        {
+            "nome": "Visper Tavaritch",
+            "idade": 25,
+            "ocupacao": "Cidad\u00e3o",
+            "id": "714047",
+            "dinheiro": 1320
+        }
+    ],
+    "593943758056456200": [
+        {
+            "nome": "TakaMassa NoMuro",
+            "idade": 26,
+            "ocupacao": "Cidad\u00e3o",
+            "id": "307874",
+            "dinheiro": 5320
+        },
+        {
+            "nome": "Luiza",
+            "idade": 20,
+            "ocupacao": "Cidad\u00e3o",
+            "id": "787346",
+            "dinheiro": 1320
+        },
+        {
+            "nome": "Kurt Cobain",
+            "idade": 26,
+            "ocupacao": "Cidad\u00e3o",
+            "id": "160048",
+            "dinheiro": 1320
+        }
+    ],
+    "930466911597248592": [
+        {
+            "nome": "Renato Rissato dos Santos",
+            "idade": 22,
+            "ocupacao": "Cidad\u00e3o",
+            "id": "255067",
+            "dinheiro": 1320
+        },
+        {
+            "nome": "Pedro Garcia",
+            "idade": 23,
+            "ocupacao": "Cidad\u00e3o",
+            "id": "971370",
+            "dinheiro": 1320
+        },
+        {
+            "nome": "Henrique Oliveira dos Santos",
+            "idade": 20,
+            "ocupacao": "Cidad\u00e3o",
+            "id": "374301",
+            "dinheiro": 1320
+        }
+    ],
+    "1173009394787688470": [
+        {
+            "nome": "junin do dende da nogueira.",
+            "idade": 19,
+            "ocupacao": "Cidad\u00e3o",
+            "id": "118622",
+            "dinheiro": 1320
+        },
+        {
+            "nome": "Julia Medeiros",
+            "idade": 18,
+            "ocupacao": "Cidad\u00e3o",
+            "id": "750225",
+            "dinheiro": 1320
+        },
+        {
+            "nome": "Jose Carlos Drumont",
+            "idade": 35,
+            "ocupacao": "Cidad\u00e3o",
+            "id": "103142",
+            "dinheiro": 1320
+        }
+    ],
+    "1299521851772375072": [
+        {
+            "nome": "Matheus Cardoso",
+            "idade": 37,
+            "ocupacao": "Cidad\u00e3o",
+            "id": "676322",
+            "dinheiro": 5320
+        },
+        {
+            "nome": "Lorenzo",
+            "idade": 18,
+            "ocupacao": "Cidad\u00e3o",
+            "id": "941824",
+            "dinheiro": 1320
+        }
+    ],
+    "1053689452918214786": [
+        {
+            "nome": "Jos\u00e9 de Almeida",
+            "idade": 28,
+            "ocupacao": "Policial Militar",
+            "id": "402401",
+            "dinheiro": 1320
+        }
+    ],
+    "1336476119318265886": [
+        {
+            "nome": "Jacinto Vanessa",
+            "idade": 18,
+            "ocupacao": "Cidad\u00e3o",
+            "id": "423801",
+            "dinheiro": 1320
+        },
+        {
+            "nome": "Joao Kailan Pinto",
+            "idade": 24,
+            "ocupacao": "Cidad\u00e3o",
+            "id": "958124",
+            "dinheiro": 1320
+        }
+    ],
+    "944775749104205895": [
+        {
+            "nome": "Cebolinha",
+            "idade": 22,
+            "ocupacao": "Cidad\u00e3o",
+            "id": "820256",
+            "dinheiro": 1320
+        }
+    ],
+    "876819744106381312": [
+        {
+            "nome": "teste teste",
+            "idade": 23,
+            "ocupacao": "Policial Civil",
+            "id": "637843",
+            "dinheiro": 1320
+        }
+    ],
+    "670774094790262798": [
+        {
+            "nome": "Jose da silva",
+            "idade": 25,
+            "ocupacao": "Cidad\u00e3o",
+            "id": "643175",
+            "dinheiro": 1320
+        },
+        {
+            "nome": "Cau\u00e3 dias",
+            "idade": 25,
+            "ocupacao": "Policial Civil",
+            "id": "175064",
+            "dinheiro": 11320
+        },
+        {
+            "nome": "Maria Dias",
+            "idade": 25,
+            "ocupacao": "Cidad\u00e3o",
+            "id": "202447",
+            "dinheiro": 1320
+        }
+    ],
+    "998802457670983710": [
+        {
+            "nome": "Gabriel Mutt",
+            "idade": 27,
+            "ocupacao": "Policial Militar",
+            "id": "664030",
+            "dinheiro": 11320
+        },
+        {
+            "nome": "Julia Reis",
+            "idade": 27,
+            "ocupacao": "Cidad\u00e3o",
+            "id": "641268",
+            "dinheiro": 51320
+        }
+    ],
+    "741273365511143455": [
+        {
+            "nome": "gustavo lindo",
+            "idade": 23,
+            "ocupacao": "Cidad\u00e3o",
+            "id": "209913",
+            "dinheiro": 1320
+        }
+    ]
+}

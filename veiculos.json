@@ -1,0 +1,28 @@
+{
+    "703958429315629076": [
+        {
+            "personagem_id": "989997",
+            "modelo": "falcon advanced beast",
+            "placa": "HLD-128"
+        }
+    ],
+    "930466911597248592": [
+        {
+            "personagem_id": "255067",
+            "modelo": "Chevrolet Corvette C2 1967",
+            "placa": "YQR-256"
+        },
+        {
+            "personagem_id": "971370",
+            "modelo": "Honda CG 160 2025",
+            "placa": "ONO-545"
+        }
+    ],
+    "1191559869694750773": [
+        {
+            "personagem_id": "218374",
+            "modelo": "Chevlon Camion 2021 (TAHOE)",
+            "placa": "SER-552"
+        }
+    ]
+}

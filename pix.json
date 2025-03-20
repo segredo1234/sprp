@@ -1,0 +1,146 @@
+[
+    {
+        "pagador": "Jo\u00e3o Vitor Andrade",
+        "id_pagador": "1",
+        "recebedor": "T\u00e9o Ferreira",
+        "id_recebedor": "752661",
+        "valor": 1,
+        "mensagem": "Obrigado por jogar",
+        "timestamp": "2025-02-09 19:38:06"
+    },
+    {
+        "pagador": "T\u00e9o Ferreira",
+        "id_pagador": "752661",
+        "recebedor": "Jo\u00e3o Vitor Andrade",
+        "id_recebedor": "1",
+        "valor": 1,
+        "mensagem": "Pix enviado!",
+        "timestamp": "2025-02-09 19:38:25"
+    },
+    {
+        "pagador": "Jo\u00e3o Vitor Andrade",
+        "id_pagador": "1",
+        "recebedor": "Daniel Castro",
+        "id_recebedor": "218374",
+        "valor": 10000,
+        "mensagem": "Pix enviado!",
+        "timestamp": "2025-02-25 18:56:28"
+    },
+    {
+        "pagador": "Jo\u00e3o Vitor Andrade",
+        "id_pagador": "1",
+        "recebedor": "Maia",
+        "id_recebedor": "887221",
+        "valor": 2000,
+        "mensagem": "Pix enviado!",
+        "timestamp": "2025-02-25 18:58:25"
+    },
+    {
+        "pagador": "Jo\u00e3o Vitor Andrade ((quando quisser falar cmg fala pelo gmail. By: TH )) ",
+        "id_pagador": "1",
+        "recebedor": "Daniel Castro",
+        "id_recebedor": "218374",
+        "valor": 10000,
+        "mensagem": "S\u00e1lario semanal",
+        "timestamp": "2025-02-25 20:32:05"
+    },
+    {
+        "pagador": "Jo\u00e3o Vitor Andrade ((quando quisser falar cmg fala pelo gmail. By: TH )) ",
+        "id_pagador": "1",
+        "recebedor": "Matheus Cardoso",
+        "id_recebedor": "676322",
+        "valor": 2000,
+        "mensagem": "S\u00e1lario semanal",
+        "timestamp": "2025-02-25 21:40:24"
+    },
+    {
+        "pagador": "Jo\u00e3o Vitor Andrade ((quando quisser falar cmg fala pelo gmail. By: TH )) ",
+        "id_pagador": "1",
+        "recebedor": "Gabriel Mutt",
+        "id_recebedor": "664030",
+        "valor": 10000,
+        "mensagem": "S\u00e1lario semanal",
+        "timestamp": "2025-02-25 21:49:44"
+    },
+    {
+        "pagador": "Jo\u00e3o Vitor Andrade ((quando quisser falar cmg fala pelo gmail. By: TH )) ",
+        "id_pagador": "1",
+        "recebedor": "TakaMassa NoMuro",
+        "id_recebedor": "307874",
+        "valor": 2000,
+        "mensagem": "S\u00e1lario Semanal",
+        "timestamp": "2025-02-25 22:08:58"
+    },
+    {
+        "pagador": "Jo\u00e3o Vitor Andrade ((quando quisser falar cmg fala pelo gmail. By: TH )) ",
+        "id_pagador": "1",
+        "recebedor": "Cau\u00e3 dias",
+        "id_recebedor": "175064",
+        "valor": 10000,
+        "mensagem": "S\u00e1lario semanal",
+        "timestamp": "2025-02-26 13:27:14"
+    },
+    {
+        "pagador": "Jo\u00e3o Vitor Andrade ((quando quisser falar cmg fala pelo gmail. By: TH )) ",
+        "id_pagador": "1",
+        "recebedor": "T\u00e9o Ferreira",
+        "id_recebedor": "752661",
+        "valor": 2000,
+        "mensagem": "S\u00e1lario semanal",
+        "timestamp": "2025-02-26 18:21:45"
+    },
+    {
+        "pagador": "Jo\u00e3o Vitor Andrade",
+        "id_pagador": "1",
+        "recebedor": "Julia Reis",
+        "id_recebedor": "641268",
+        "valor": 50000,
+        "mensagem": "toma",
+        "timestamp": "2025-03-03 01:34:48"
+    },
+    {
+        "pagador": "CHINA",
+        "id_pagador": "997589",
+        "recebedor": "Diclei",
+        "id_recebedor": "989997",
+        "valor": 1320,
+        "mensagem": "So tenho isso, te pago o resto em 3 dias,",
+        "timestamp": "2025-03-03 13:35:20"
+    },
+    {
+        "pagador": "Jo\u00e3o Vitor Andrade",
+        "id_pagador": "1",
+        "recebedor": "Matheus Cardoso",
+        "id_recebedor": "676322",
+        "valor": 2000,
+        "mensagem": "S\u00e1lario semanal",
+        "timestamp": "2025-03-08 13:30:33"
+    },
+    {
+        "pagador": "Jo\u00e3o Vitor Andrade",
+        "id_pagador": "1",
+        "recebedor": "TakaMassa NoMuro",
+        "id_recebedor": "307874",
+        "valor": 2000,
+        "mensagem": "S\u00e1lario semanal",
+        "timestamp": "2025-03-08 13:46:22"
+    },
+    {
+        "pagador": "Jo\u00e3o Vitor Andrade",
+        "id_pagador": "1",
+        "recebedor": "Daniel Castro",
+        "id_recebedor": "218374",
+        "valor": 10000,
+        "mensagem": "S\u00e1lario da PC",
+        "timestamp": "2025-03-08 19:21:49"
+    },
+    {
+        "pagador": "Jo\u00e3o Vitor Andrade",
+        "id_pagador": "1",
+        "recebedor": "Daniel Castro",
+        "id_recebedor": "218374",
+        "valor": 10000,
+        "mensagem": "S\u00e1lario da GCM",
+        "timestamp": "2025-03-08 19:22:02"
+    }
+]
