@@ -741,5 +741,4 @@ async def status(ctx, estado: str, *, mensagem: str = None):
 
 
 # Inicie o bot com seu token
-TOKEN = "MTI5MzM4NTExNTI0OTkzODQ2NA.GMMyZO.xDStbMyIA9RXt2_2Yv2OrwnPvH4dCAqjNkazys"
 bot.run(TOKEN) 
